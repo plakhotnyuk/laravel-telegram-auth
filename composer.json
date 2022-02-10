@@ -1,0 +1,20 @@
+{
+    "name": "plakhotnyuk/telegram-auth",
+    "description": "Laravel Telegram Auth",
+    "keywords": ["telegram", "laravel", "auth"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dmitriy Plakhotnyuk",
+            "email": "yuseff.pr@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.2|^8.0",
+        "guzzlehttp/guzzle": "^6.3|^7.0.1",
+        "illuminate/http": "^5.8|^6.0|^7.0|^8.0",
+        "illuminate/routing": "^5.8|^6.0|^7.0|^8.0",
+        "illuminate/support": "^5.8|^6.0|^7.0|^8.0"
+    }
+    
+}
